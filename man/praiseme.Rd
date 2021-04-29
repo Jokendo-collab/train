@@ -7,6 +7,9 @@ Load the Maxquant outpu data into R environment}
 \usage{
 praiseme(your_name)
 }
+\arguments{
+\item{your_name}{}
+}
 \value{
 returns a list of genes
 }
