@@ -7,8 +7,9 @@
 #' @export
 #'
 #' @examples
-splt = function(gsea){
+varcall = function(n){
+  #compute the gene expression profile
+  n^25
 
-  x + y + 1
-  return(gsea)
 }
+varcall(20)

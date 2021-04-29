@@ -24,6 +24,9 @@ Imports:
     edgeR,
     ggrepel,
     plotly,
+    clusterProfiler,
+    org.Hs.eg.db,
+    enrichplot
 Suggests:
     knitr,
     rmarkdown,
