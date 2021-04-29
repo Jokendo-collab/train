@@ -12,4 +12,4 @@ varcall = function(n){
   n^25
 
 }
-varcall(20)
+
