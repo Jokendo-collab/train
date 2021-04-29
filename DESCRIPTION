@@ -31,5 +31,3 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown
-Biarch: true
-biocViews: RNASeq, DifferentialExpression, GeneExpression, Normalization, Clustering, QualityControl, Sequencing, Transcription, Transcriptomics
