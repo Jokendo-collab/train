@@ -13,8 +13,8 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-#' Title
-#'
+#' trian
+#' Load the Maxquant outpu data into R environment
 #' @return
 #' @export
 #'
