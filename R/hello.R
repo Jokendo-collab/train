@@ -13,9 +13,9 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-#' trian
+#' train the machine learning data used in the analysis of RNAseq data
 #' Load the Maxquant outpu data into R environment
-#' @return
+#' @return returns a list of genes
 #' @export
 #'
 #' @examples
