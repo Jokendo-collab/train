@@ -21,12 +21,9 @@ Imports:
     dplyr,
     readr,
     tidyr,
-    tidybulk,
-    tidyHeatmap,
     edgeR,
     ggrepel,
     plotly,
-    airway,
 Suggests:
     knitr,
     rmarkdown,

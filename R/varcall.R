@@ -12,4 +12,3 @@ splt = function(gsea){
   x + y + 1
   return(gsea)
 }
-
