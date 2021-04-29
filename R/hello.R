@@ -15,6 +15,9 @@
 
 #' train the machine learning data used in the analysis of RNAseq data
 #' Load the Maxquant outpu data into R environment
+#'
+#' @param your_name
+#'
 #' @return returns a list of genes
 #' @export
 #'
