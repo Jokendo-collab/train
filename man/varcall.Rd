@@ -7,7 +7,7 @@
 varcall(n)
 }
 \arguments{
-\item{gsea}{}
+\item{n}{}
 }
 \value{
 gene sets indentified
